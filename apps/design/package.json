@@ -18,6 +18,10 @@
     "vite": "^4.5.14",
     "lodash-es": "^4.17.21",
     "@types/react": "^19.1.4",
-    "@types/react-dom": "^19.1.5"
+    "@types/react-dom": "^19.1.5",
+    "vite-plugin-html": "^3.2.2"
+  },
+  "dependencies": {
+    "@apaas/designer": "workspace:*"
   }
 }

@@ -1,3 +1,4 @@
+import { name } from "@apaas/designer"
 // // 动态加载 React 组件
 // async function loadReactComponent() {
 //   const { default: ReactComponent } = await import(
@@ -18,6 +19,7 @@
 // // 加载并渲染 React 组件
 // loadReactComponent();
 
-console.log("hello world");
+console.log("design index.ts init")
+console.log("designer index.ts name: ", name)
 
 export {}

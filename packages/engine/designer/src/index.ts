@@ -1,4 +1,2 @@
-const name = "design";
-export {
-  name
-};
+const name = "designer"
+export { name }
